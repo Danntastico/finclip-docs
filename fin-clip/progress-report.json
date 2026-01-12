@@ -1,0 +1,49 @@
+{
+  "timestamp": "2026-01-12T23:23:00.827Z",
+  "duration": {
+    "elapsed": 687536,
+    "elapsedSeconds": "687.5",
+    "formatted": "11m 27s"
+  },
+  "overall": {
+    "totalCategories": 6,
+    "totalUrls": 100,
+    "processedUrls": 100,
+    "successfulUrls": 96,
+    "failedUrls": 4,
+    "successRate": "96.0%",
+    "rate": "0.15 URLs/s"
+  },
+  "categories": {
+    "api": {
+      "total": 18,
+      "success": 15,
+      "failed": 3
+    },
+    "base-library": {
+      "total": 2,
+      "success": 2,
+      "failed": 0
+    },
+    "components": {
+      "total": 14,
+      "success": 14,
+      "failed": 0
+    },
+    "developer-tools": {
+      "total": 19,
+      "success": 19,
+      "failed": 0
+    },
+    "framework": {
+      "total": 22,
+      "success": 22,
+      "failed": 0
+    },
+    "guide": {
+      "total": 25,
+      "success": 24,
+      "failed": 1
+    }
+  }
+}

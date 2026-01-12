@@ -1,0 +1,60 @@
+{
+  "timestamp": "2026-01-12T23:23:00.797Z",
+  "duration": {
+    "ms": 687495,
+    "seconds": "687.5",
+    "formatted": "11m 27s"
+  },
+  "summary": {
+    "totalCategories": 6,
+    "totalUrls": 100,
+    "successfulUrls": 96,
+    "failedUrls": 4,
+    "successRate": "96.0%"
+  },
+  "categories": [
+    {
+      "category": "api",
+      "totalUrls": 18,
+      "successfulUrls": 15,
+      "failedUrls": 3,
+      "successRate": "83.3%"
+    },
+    {
+      "category": "base-library",
+      "totalUrls": 2,
+      "successfulUrls": 2,
+      "failedUrls": 0,
+      "successRate": "100.0%"
+    },
+    {
+      "category": "components",
+      "totalUrls": 14,
+      "successfulUrls": 14,
+      "failedUrls": 0,
+      "successRate": "100.0%"
+    },
+    {
+      "category": "developer-tools",
+      "totalUrls": 19,
+      "successfulUrls": 19,
+      "failedUrls": 0,
+      "successRate": "100.0%"
+    },
+    {
+      "category": "framework",
+      "totalUrls": 22,
+      "successfulUrls": 22,
+      "failedUrls": 0,
+      "successRate": "100.0%"
+    },
+    {
+      "category": "guide",
+      "totalUrls": 25,
+      "successfulUrls": 24,
+      "failedUrls": 1,
+      "successRate": "96.0%"
+    }
+  ],
+  "outputDirectory": "/mnt/c/Users/Asus/Documents/software-development/scrapping/finclip-docs/fin-clip"
+}
