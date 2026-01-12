@@ -100,7 +100,7 @@ async function scrapeUrlWithRetry(url, options = {}, attempt = 1) {
         ...options,
       };
 
-      const response = await client.scrape(url, scrapeOptions);
+      const response = await client.scrapeUrl(url, scrapeOptions);
       return response;
     });
 
